@@ -5,5 +5,5 @@
 
 .avatar.distorted {
   width: 200px;
-  aspect-ratio: 2;
+  aspect-ratio: 1 / 2;
 }
